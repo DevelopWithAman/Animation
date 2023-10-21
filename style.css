@@ -1,0 +1,61 @@
+*{
+    font-family: sans-serif;
+}
+
+#para1{
+   background-color: red;
+    margin-left: 700px;
+    width: 15%;
+    animation-duration: 3s;
+    animation-name: slidein;
+    animation-iteration-count: infinite;
+}
+
+#para2{
+    background-color: red;
+    margin-left: 700px;
+    width: 15%;
+    animation-duration: 3s;
+    animation-name: slidein;
+    animation-iteration-count: infinite;
+}
+
+#para3{
+    background-color: red;
+    margin-left: 700px;
+    width: 15%;
+    animation-duration: 3s;
+    animation-name: slidein;
+    animation-iteration-count: infinite;
+}
+
+#para4{
+    background-color: red;
+    margin-left: 700px;
+    width: 15%;
+    animation-duration: 3s;
+    animation-name: slidein;
+    animation-iteration-count: infinite;
+}
+
+#para5{
+    background-color: red;
+    margin-left: 700px;
+    width: 15%;
+    animation-duration: 3s;
+    animation-name: slidein;
+    animation-iteration-count: infinite;
+}
+
+
+@keyframes slidein {
+    from {
+        scale: 0;
+        /* background-color: red; */
+    }
+  
+    to {
+        scale: 1;
+        /* background-color: red; */
+    }
+  }
